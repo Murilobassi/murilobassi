@@ -43,7 +43,7 @@ Construindo **sistemas de automação**, **integrações com IA** e **plataforma
 * Design de APIs
 * Otimização de performance
 * Sistemas web escaláveis
-
+* Desenvolvimento de sites para negócios  
 ---
 
 ## 🚀 Projetos em Destaque
