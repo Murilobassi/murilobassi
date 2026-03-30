@@ -62,7 +62,6 @@ Automação de atendimento com sistema **multi-agent**, integrado a banco de dad
 * Escalabilidade de aplicações SaaS
 * Engenharia de prompts e agentes de IA
 * Python para automação e IA
-* Inteligência Artificial e Computacional (FIAP)
 
 ---
 
