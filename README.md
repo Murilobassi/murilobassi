@@ -74,7 +74,3 @@ Automação de atendimento com sistema **multi-agent**, integrado a banco de dad
 
 ---
 
-## 💡 Filosofia
-
-> Software não é apenas código.
-> É resolver problemas reais e construir sistemas que gerem valor.
